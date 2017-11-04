@@ -1,0 +1,22 @@
+html{
+padding:1%;
+}
+h2{
+text-align:center;
+}
+body{
+background-color:#EF4E3E;
+}
+.main{
+		width:40%;
+		height:30%;
+		border-radius:30px;
+		border:1px groove black;
+		background-image: url("payroll.jpg");
+		background-repeat:no-repeat;
+		background-position:fixed;
+		background-size:cover;
+		padding:1%;
+		margin-left:auto;
+		margin-right:auto;
+		 }

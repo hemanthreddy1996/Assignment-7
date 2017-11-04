@@ -1,0 +1,15 @@
+body
+{
+background-color:#EF4E3E;
+}
+   .draggable{
+      width: 50px;
+height: 15px;
+background:grey;
+   }
+h1
+{
+font-size:25px;
+color:yellow;
+text-align:center;
+}

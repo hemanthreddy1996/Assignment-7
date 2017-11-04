@@ -1,0 +1,22 @@
+body
+{
+background-color:#CF4033;
+}
+#errmsg3,#errmsg1,#errmsg2
+{
+ color:red;
+}
+.cd
+{
+	text-align:center;
+}
+h1
+{
+font-size:25px;
+color:#AFB217;
+text-align:center;
+}
+#wire_t
+{
+color:yellow;
+}

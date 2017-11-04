@@ -1,0 +1,1 @@
+Machine Learning deals with various techniques and algorithms to train the machines so that they can perform predictions. This course is taught by Prof. Zipheng Cai.

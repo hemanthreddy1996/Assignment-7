@@ -1,0 +1,1 @@
+Advanced Software Engineering deals with various design patterns to solve real world design problems, FSM, Petri Net models and DevsJava. This course is taught by Prof. Xiaolin Hu.
